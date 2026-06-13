@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ziachi&fontSize=72&fontColor=58a6ff&fontAlignY=50&desc=&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ZIACHI&fontSize=72&fontColor=58a6ff&fontAlignY=50&desc=&descAlignY=75" />
 
 **Low-level Android tinkerer**
 
