@@ -20,7 +20,7 @@ and debugging everything from bootloops to HAL crashes.
 |---------|--------|---------|--------|
 | [**Matrixx 15**](https://github.com/ziachi/device_xiaomi_santoni) | Redmi 4X (santoni) | 15 (V) | ✅ v14 built |
 | [**DerpFest 13**](https://github.com/ziachi/device_xiaomi_santoni_derpfest) | Redmi 4X (santoni) | 13 (T) | 🔨 building |
-| [**Qassa (Matrixx 10)**](https://github.com/ziachi/device_xiaomi_santoni_qassa) | Redmi 4X (santoni) | 10 (Q) | ✅ v20 released |
+| [**Qassa**](https://github.com/ziachi/device_xiaomi_santoni_qassa) | Redmi 4X (santoni) | 10 (Q) | ✅ v20 released |
 
 <details>
 <summary><b>📦 All ROM repos</b></summary>
@@ -36,7 +36,7 @@ and debugging everything from bootloops to HAL crashes.
 - [`vendor_xiaomi_santoni_derpfest`](https://github.com/ziachi/vendor_xiaomi_santoni_derpfest) — Vendor blobs
 - [`kernel_xiaomi_msm8937_derpfest`](https://github.com/ziachi/kernel_xiaomi_msm8937_derpfest) — Kernel
 
-**Qassa / Matrixx 10 (Android 10)**
+**Qassa (Android 10)**
 - [`device_xiaomi_santoni_qassa`](https://github.com/ziachi/device_xiaomi_santoni_qassa) — Device tree
 - [`vendor_xiaomi_santoni_qassa`](https://github.com/ziachi/vendor_xiaomi_santoni_qassa) — Vendor blobs
 - [`kernel_xiaomi_msm8937_qassa`](https://github.com/ziachi/kernel_xiaomi_msm8937_qassa) — Kernel
