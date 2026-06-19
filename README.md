@@ -97,7 +97,6 @@ CPU       AMD Ryzen 5 7600 6-Core (12 Threads)
 RAM       24 GB DDR5
 Storage   312 GB SSD
 OS        Ubuntu 22.04.5 LTS (WSL2)
-Network   Tailscale VPN
 ```
 
 ---
@@ -116,7 +115,6 @@ CPU       AMD Ryzen 5 7600 6-Core (12 Threads)
 RAM       24 GB DDR5
 Storage   312 GB SSD
 OS        Ubuntu 22.04.5 LTS (WSL2)
-Network   Tailscale VPN
 ```
 
 ---
