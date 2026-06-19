@@ -96,7 +96,7 @@ No force-push. No shortcuts. Append-only history.
 CPU       AMD Ryzen 5 7600 6-Core (12 Threads)
 RAM       24 GB DDR5
 Storage   312 GB SSD
-OS        Ubuntu 22.04.5 LTS (WSL2)
+OS        Windows 11 (WSL2 — Ubuntu 22.04)
 GPU       AMD Radeon RX 9060 XT (16 GB VRAM)
 ```
 
@@ -115,7 +115,7 @@ GPU       AMD Radeon RX 9060 XT (16 GB VRAM)
 CPU       AMD Ryzen 5 7600 6-Core (12 Threads)
 RAM       24 GB DDR5
 Storage   312 GB SSD
-OS        Ubuntu 22.04.5 LTS (WSL2)
+OS        Windows 11 (WSL2 — Ubuntu 22.04)
 GPU       AMD Radeon RX 9060 XT (16 GB VRAM)
 ```
 
