@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ZIACHI&fontSize=72&fontColor=58a6ff&fontAlignY=50&desc=&descAlignY=75" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ZIACHI&fontSize=72&fontColor=58a6ff&fontAlignY=50" />
 
 **Low-level Android tinkerer**
 
-I work close to the metal — build systems, kernel integration, vendor HALs,  
-and whatever breaks between them.
+I take unsupported hardware and make modern Android run on it —  
+patching frameworks, writing SELinux policy, tuning memory for 2GB devices,  
+and debugging everything from bootloops to HAL crashes.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@kalomakan-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/kalomakan)
 
@@ -13,11 +14,35 @@ and whatever breaks between them.
 
 ---
 
-### What I Do
+### 🔧 Active Projects
 
-I take unsupported hardware and make modern Android run on it.  
-That means patching frameworks, writing SELinux policy, tuning memory for 2GB devices,  
-and debugging everything from bootloops to HAL crashes — until it works.
+| Project | Device | Android | Status |
+|---------|--------|---------|--------|
+| [**Matrixx 15**](https://github.com/ziachi/device_xiaomi_santoni) | Redmi 4X (santoni) | 15 (V) | ✅ v14 built |
+| [**DerpFest 13**](https://github.com/ziachi/device_xiaomi_santoni_derpfest) | Redmi 4X (santoni) | 13 (T) | 🔨 building |
+| [**Qassa (Matrixx 10)**](https://github.com/ziachi/device_xiaomi_santoni_qassa) | Redmi 4X (santoni) | 10 (Q) | ✅ v20 released |
+
+<details>
+<summary><b>📦 All ROM repos</b></summary>
+
+**Matrixx 15 (Android 15)**
+- [`device_xiaomi_santoni`](https://github.com/ziachi/device_xiaomi_santoni) — Device tree
+- [`vendor_xiaomi_santoni`](https://github.com/ziachi/vendor_xiaomi_santoni) — Vendor blobs
+- [`kernel_xiaomi_msm8937`](https://github.com/ziachi/kernel_xiaomi_msm8937) — Kernel
+- [`frameworks_base`](https://github.com/ziachi/frameworks_base) — Framework patches
+
+**DerpFest 13 (Android 13)**
+- [`device_xiaomi_santoni_derpfest`](https://github.com/ziachi/device_xiaomi_santoni_derpfest) — Device tree
+- [`vendor_xiaomi_santoni_derpfest`](https://github.com/ziachi/vendor_xiaomi_santoni_derpfest) — Vendor blobs
+- [`kernel_xiaomi_msm8937_derpfest`](https://github.com/ziachi/kernel_xiaomi_msm8937_derpfest) — Kernel
+
+**Qassa / Matrixx 10 (Android 10)**
+- [`device_xiaomi_santoni_qassa`](https://github.com/ziachi/device_xiaomi_santoni_qassa) — Device tree
+- [`vendor_xiaomi_santoni_qassa`](https://github.com/ziachi/vendor_xiaomi_santoni_qassa) — Vendor blobs
+- [`kernel_xiaomi_msm8937_qassa`](https://github.com/ziachi/kernel_xiaomi_msm8937_qassa) — Kernel
+- [`frameworks_base_qassa`](https://github.com/ziachi/frameworks_base_qassa) — Framework patches
+
+</details>
 
 ---
 
