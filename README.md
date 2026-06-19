@@ -95,7 +95,7 @@ No force-push. No shortcuts. Append-only history.
 ```
 CPU       AMD Ryzen 5 7600 6-Core (12 Threads)
 RAM       24 GB DDR5
-Storage   312 GB SSD
+Storage   1 TB SSD (320 GB allocated to WSL2)
 OS        Windows 11 (WSL2 — Ubuntu 22.04)
 GPU       AMD Radeon RX 9060 XT (16 GB VRAM)
 ```
