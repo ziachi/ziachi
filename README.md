@@ -90,9 +90,34 @@ No force-push. No shortcuts. Append-only history.
 
 ---
 
+### 🖥️ Building Environment
+
+```
+CPU       AMD Ryzen 5 7600 6-Core (12 Threads)
+RAM       24 GB DDR5
+Storage   312 GB SSD
+OS        Ubuntu 22.04.5 LTS (WSL2)
+Network   Tailscale VPN
+```
+
+---
+
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ziachi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="48%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziachi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
 
 </div>
+
+### 🖥️ Building Environment
+
+```
+CPU       AMD Ryzen 5 7600 6-Core (12 Threads)
+RAM       24 GB DDR5
+Storage   312 GB SSD
+OS        Ubuntu 22.04.5 LTS (WSL2)
+Network   Tailscale VPN
+```
+
+---
+
