@@ -16,11 +16,11 @@ and debugging everything from bootloops to HAL crashes.
 
 ### 🔧 Active Projects
 
-| Project | Device | Android | Kernel | Status |
-|---------|--------|---------|--------|--------|
-| [**Matrixx 15**](https://github.com/ziachi/device_xiaomi_santoni) | Redmi 4X (santoni) | 15 (V) | Stock | ✅ v14 built |
-| [**DerpFest 13**](https://github.com/ziachi/device_xiaomi_santoni_derpfest) | Redmi 4X (santoni) | 13 (T) | [Luuvy C.4.0](https://github.com/ziachi/device_xiaomi_santoni_derpfest/releases/tag/v12-20260620) | ✅ v12 released |
-| [**Qassa**](https://github.com/ziachi/device_xiaomi_santoni_qassa) | Redmi 4X (santoni) | 10 (Q) | Stock | ✅ v20 released |
+| Project | Device | Android | Status |
+|---------|--------|---------|--------|
+| [**Matrixx 15**](https://github.com/ziachi/device_xiaomi_santoni) | Redmi 4X (santoni) | 15 (V) | ✅ v14 built |
+| [**DerpFest 13**](https://github.com/ziachi/device_xiaomi_santoni_derpfest) | Redmi 4X (santoni) | 13 (T) | ✅ v12 released |
+| [**Qassa**](https://github.com/ziachi/device_xiaomi_santoni_qassa) | Redmi 4X (santoni) | 10 (Q) | ✅ v20 released |
 
 
 ---
