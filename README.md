@@ -1,16 +1,86 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ziachi/ziachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=ZIACHI&fontSize=72&fontColor=58a6ff&fontAlignY=50" />
 
-Here are some ideas to get you started:
+**Low-level Android tinkerer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I take unsupported hardware and make modern support
+
+
+</div>
+
+---
+
+### 🔧 Active Projects
+
+| Project | Device | Android | Kernel | Status |
+|---------|--------|---------|--------|--------|
+| [**Matrixx 15**](https://github.com/ziachi/device_xiaomi_santoni) | Redmi 4X (santoni) | 15 (V) | 4.9 | ✅ v14 built |
+| [**DerpFest 13**](https://github.com/ziachi/device_xiaomi_santoni_derpfest) | Redmi 4X (santoni) | 13 (T) | 4.9 | ✅ v12 released |
+| [**Qassa**](https://github.com/ziachi/device_xiaomi_santoni_qassa) | Redmi 4X (santoni) | 10 (Q) | 4.9 | ✅ v20 released |
+
+
+---
+
+### Skills
+
+```
+Android Platform     AOSP build system · Device tree · SELinux policy
+                     Framework patching · HAL integration
+
+Kernel & Low-Level   Prebuilt kernel · KernelSU · Init scripts
+                     cgroup workarounds · Spectrum profiles
+
+System Optimization  LMK · ZRAM · Heap tuning · Debloat
+                     VM tuning for constrained devices
+
+Engineering          Root cause analysis · Per-fix commits
+                     Written documentation · Append-only history
+```
+
+---
+
+### Toolbox
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=cmake&logoColor=white)
+
+---
+
+### Process
+
+```
+logcat → trace root cause → write fix → build → verify → document
+```
+
+Every fix is one commit. Every commit has a reason.  
+Append-only history.
+
+---
+
+### 🖥️ Building Environment
+
+```
+CPU       AMD Ryzen 5 7600 6-Core (12 Threads)
+RAM       32 GB DDR5 (24 GB allocated to WSL2)
+Storage   1 TB SSD (320 GB allocated to WSL2)
+OS        Windows 11 (WSL2 — Ubuntu 22.04)
+GPU       AMD Radeon RX 9060 XT (16 GB VRAM)
+```
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ziachi&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ziachi&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" width="40%" />
+
+</div>
